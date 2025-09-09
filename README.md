@@ -1,7 +1,13 @@
-# 💻 Andy Ababio
-**`Certified Data Analyst Professional`**
+<h1 align="center">
+  Hi there👋, I'm 
+  <a href="https://linkedin.com/in/andy-ababio/" style="color:#3498db;" target="_blank">
+    Andy Ababio
+  </a>
+</h1>
 
-I am an aspiring Data Analyst with a strong foundation in Python, SQL, Power BI, and Data Visualization. With a background in Business Administration and HR, I bring a unique perspective that combines analytical skills with business acumen. I am passionate about transforming raw data into meaningful insights that drive decision-making and organizational growth.
+
+I am     **`Certified Data Analyst Professional`**
+ with a strong foundation in Python, SQL, Power BI, and Data Visualization. With a background in Business Administration and HR, I bring a unique perspective that combines analytical skills with business acumen. I am passionate about transforming raw data into meaningful insights that drive decision-making and organizational growth.
 
 #
 
@@ -20,16 +26,20 @@ I am an aspiring Data Analyst with a strong foundation in Python, SQL, Power BI,
 <a href="https://www.linkedin.com/in/andy-ababio/" target="_blank">
   <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
+<a href="mailto:andykwameababio@gmail.com">
+  <img align="left" alt="Gmail" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
+</a>
+
 
 <br/>
 
 #
 
-# like Isaac Eric Nkoom Ayitey (on linked) create a table to separate the tools (into viz, spreadsheet etc) - TECH STACK
-# Main Over view repos will contain links to Main project repos - Like Isaac
-# 
+# Projects
+
+| Project | Tools | Description |
+|---------|-------|-------------|
+| [Project Name](https://github.com/your-username/your-repo) | SQL, Python | Placeholder description |
 
 
-
-
-
+#
