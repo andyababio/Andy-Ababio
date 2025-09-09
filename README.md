@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/andyababio/andyababio/blob/main/assets/building_stock_image_new.jpg?raw=true" alt="Banner" width="800">
+</p>
+
+
+
 <h1 align="center">
   Hi there👋, I'm 
   <a href="https://linkedin.com/in/andy-ababio/" style="color:#3498db;" target="_blank">
