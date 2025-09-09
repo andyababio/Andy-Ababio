@@ -24,7 +24,6 @@ I am an aspiring Data Analyst with a strong foundation in Python, SQL, Power BI,
 <br/>
 
 #
-#
 
 # like Isaac Eric Nkoom Ayitey (on linked) create a table to separate the tools (into viz, spreadsheet etc) - TECH STACK
 # Main Over view repos will contain links to Main project repos - Like Isaac
